@@ -1,6 +1,6 @@
 ## About Me
 
-I am a 2nd year PhD student in Economics at Stanford. I am interested in political economy and industrial organization, focused on social networks and the role of media. You can reach me at samthau (at) stanford [dot] edu. 
+I am a 2nd year PhD student in Economics at Stanford. I am interested in political economy and industrial organization, focused on social networks and the impacts of media. You can reach me at samthau (at) stanford [dot] edu. 
 
 
 ## Working papers
