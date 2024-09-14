@@ -5,8 +5,7 @@ I am a 2nd year PhD student in Economics at Stanford. I am interested in politic
 
 ## Working papers
 
-### [Non-Robustness of Diffusion Estimates On Networks With Measurement Error](/papers/diffusion_cgpmtw.pdf) (with Arun G Chandrasekhar, Paul Goldsmith-Pinkham, Tyler McCormick and Jerry Wei)
-R&R at Econometrica
+### [Non-Robustness of Diffusion Estimates On Networks With Measurement Error](/papers/diffusion_cgpmtw.pdf) (with Arun G Chandrasekhar, Paul Goldsmith-Pinkham, Tyler McCormick and Jerry Wei) R&R at Econometrica
 
 ## Publications
 ### [Interacting Policies in Containing a Disease](/papers/ac_pgp_mj_st_interacting.pdf) (with Arun G Chandrasekhar, Paul Goldsmith-Pinkham, and Matthew O. Jackson)
