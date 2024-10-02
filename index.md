@@ -13,7 +13,7 @@ Proceedings of the National Academy of Sciences (May, 2021): vol. 118 no. 19 doi
 [Supplemental Material](/papers/interacting_supplement.pdf), [Code](https://github.com/sthau/NetworkLockdown)
 
 ## Work in progress
-Power, Threat, and Media: Evidence from Historical Newspapers (with Sam Asher)
+Power and Threat in the Media: Evidence from Historical Newspapers (with Sam Asher)
 
 The Political Content of College Courses (with Gideon Moore and Jacob Light)
 
