@@ -17,7 +17,6 @@ Power and Threat in the Media: Evidence from Historical Newspapers (with Sam Ash
 
 The Political Content of College Courses (with Gideon Moore and Jacob Light)
 
-Local Peer Effects, National Fashion Cycles: Evidence from Names (with Matthew Gentzkow)
 
 
 
