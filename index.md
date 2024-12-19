@@ -15,6 +15,8 @@ Proceedings of the National Academy of Sciences (May, 2021): vol. 118 no. 19 doi
 ## Work in progress
 The Political Content of College Courses (with Gideon Moore and Jacob Light)
 
+Market Power in the Marketplace of Ideas: Evidence from Podcasts (with Sumhith Aradhyula)
+
 
 
 
