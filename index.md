@@ -1,6 +1,6 @@
 ## About Me
 
-I am a 3rd year PhD student in Economics at Stanford. I am interested in political economy and industrial organization, focused on social networks and the impacts of media. You can reach me at samthau (at) stanford [dot] edu. My Google Scholar is [here](https://scholar.google.com/citations?hl=en&user=HM2wcgIAAAAJ). My CV is [here](CV/sam_thau_cv.pdf). 
+I am a 3rd year PhD student in Economics at Stanford. I am interested in industrial organization and political economy. I'm particularly interested in social networks and media. You can reach me at samthau (at) stanford [dot] edu. My Google Scholar is [here](https://scholar.google.com/citations?hl=en&user=HM2wcgIAAAAJ). My CV is [here](CV/sam_thau_cv.pdf). 
 
 
 ## Working papers
