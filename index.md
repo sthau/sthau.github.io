@@ -1,6 +1,8 @@
 ## About Me
 
-I am a 3rd year PhD student in Economics at Stanford. I am interested in industrial organization and political economy. I'm particularly interested in social networks and media. You can reach me at samthau (at) stanford [dot] edu. My Google Scholar is [here](https://scholar.google.com/citations?hl=en&user=HM2wcgIAAAAJ). My CV is [here](CV/sam_thau_cv.pdf). 
+I am a 3rd year PhD candidate in Economics at Stanford. I am interested in industrial organization and political economy, with particular interests in digital media and social networks. I also have interests in applied econometrics, focused on model robustness. 
+
+You can reach me at samthau (at) stanford [dot] edu. My Google Scholar is [here](https://scholar.google.com/citations?hl=en&user=HM2wcgIAAAAJ). My CV is [here](CV/sam_thau_cv.pdf). 
 
 
 ## Working papers
@@ -14,6 +16,8 @@ Proceedings of the National Academy of Sciences (May, 2021): vol. 118 no. 19 doi
 
 ## Work in progress
 The Political Content of College Courses (with Gideon Moore and Jacob Light)
+
+Robust Targets from Mis-Specified Models
 
 
 
