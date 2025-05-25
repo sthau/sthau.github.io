@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Samuel Thau
-logo: /images/photo.jpeg
+logo: /images/photo.jpg
 plugins:
   - jekyll-sitemap
