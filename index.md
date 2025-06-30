@@ -10,13 +10,14 @@ You can reach me at samthau (at) stanford [dot] edu. My Google Scholar is [here]
 ### [Non-Robustness of Diffusion Estimates On Networks With Measurement Error](/papers/diffusion_cgpmtw.pdf) (with Arun G Chandrasekhar, Paul Goldsmith-Pinkham, Tyler McCormick and Jerry Wei) R&R at Econometrica
 
 ## Publications
-### [Interacting Policies in Containing a Disease](/papers/ac_pgp_mj_st_interacting.pdf) (with Arun G Chandrasekhar, Paul Goldsmith-Pinkham, and Matthew O. Jackson)
+### [Interacting Policies in Containing a Disease](/papers/ac_pgp_mj_st_interacting.pdf) (with Arun G Chandrasekhar, Paul Goldsmith-Pinkham, and Matthew O Jackson)
 Proceedings of the National Academy of Sciences (May, 2021): vol. 118 no. 19 doi:10.1073/pnas.2021520118. 
 [Supplemental Material](/papers/interacting_supplement.pdf), [Code](https://github.com/sthau/NetworkLockdown)
 
 ## Work in progress
 The Political Content of College Courses (with Gideon Moore and Jacob Light)
 
+On Assumptions of Local Structure (with Arun G Chandrasekhar and Matthew O Jackson)
 
 
 
