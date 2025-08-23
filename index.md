@@ -17,7 +17,6 @@ Proceedings of the National Academy of Sciences (May, 2021): vol. 118 no. 19 doi
 ## Work in progress
 The Political Content of College Courses (with Gideon Moore and Jacob Light)
 
-On Assumptions of Local Structure (with Arun G Chandrasekhar and Matthew O Jackson)
 
 
 
