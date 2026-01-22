@@ -170,6 +170,16 @@ header h1 {
   margin-bottom: 10px;
 }
 
+header h1 a {
+  color: #333;
+  pointer-events: none;
+  cursor: default;
+}
+
+header h1 a:hover {
+  text-decoration: none;
+}
+
 header p {
   font-size: 14px;
   color: #666;
