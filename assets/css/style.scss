@@ -168,6 +168,8 @@ header h1 {
   font-size: 28px;
   border: none;
   margin-bottom: 10px;
+  max-width: 100%;
+  word-wrap: break-word;
 }
 
 header h1 a {
