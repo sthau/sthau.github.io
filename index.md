@@ -8,11 +8,12 @@ You can reach me at samthau (at) stanford [dot] edu. My Google Scholar is [here]
 ## Working papers
 
 ### [Non-Robustness of Diffusion Estimates On Networks With Measurement Error](/papers/diffusion_cgpmtw.pdf)
-with Arun G Chandrasekhar, Paul Goldsmith-Pinkham, Tyler McCormick and Jerry Wei (R&R at Econometrica)
+with Arun G Chandrasekhar, Paul Goldsmith-Pinkham, Tyler McCormick and Jerry Wei
 <details>
 <summary>Abstract</summary>
 Network diffusion models are used to study disease transmission, information spread, technology adoption, and other socio-economic processes. We show that estimates of these diffusions are highly non-robust to mismeasurement. First, even when the network is measured perfectly, small and local mismeasurement in the initial seed generates a large shift in the locations of the expected diffusion. Second, if the initial seed is known, small measurement error in links with the share of missed links close to zero causes diffusion forecasts to be significant under-estimates. Such failures exist even when the basic reproductive number is consistently estimable. We explore strategies for estimating the volume of measurement error in the network. Finally, we examine the empirical content of this non-robustness in the context of mitigating the spread of COVID-19 and in seeding of valuable information to maximize diffusion. Our results imply measurement error necessitates stronger disease mitigation efforts to achieve the same disease outcomes.
 </details>
+(R&R at Econometrica)
 
 
 ## Publications

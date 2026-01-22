@@ -43,20 +43,25 @@ h2 {
 }
 
 h3 {
-  font-size: 20px;
-  margin-top: 40px;
+  font-size: 18px;
+  margin-top: 20px;
   margin-bottom: 5px;
 }
 
 /* Reduce gap between section header and first paper title */
 h2 + h3 {
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
 /* Author line styling */
 h3 + p {
   margin-top: 0;
   margin-bottom: 5px;
+}
+
+/* Journal info/bottom metadata styling */
+details + p {
+  margin-top: 0;
 }
 
 summary {
