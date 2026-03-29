@@ -12,7 +12,7 @@ with Arun G Chandrasekhar, Paul Goldsmith-Pinkham, Tyler McCormick and Jerry Wei
 <summary>Abstract</summary>
 Network diffusion models are used to study disease transmission, information spread, technology adoption, and other socio-economic processes. We show that estimates of these diffusions are highly non-robust to mismeasurement. First, even when the network is measured perfectly, small and local mismeasurement in the initial seed generates a large shift in the locations of the expected diffusion. Second, if instead the initial seed is known, even a vanishingly small share of missed links causes diffusion forecasts to be significant under-estimates. Forecast failure depends critically on the geometry of measurement error: we provide sufficient conditions for catastrophic failure when missing links bridge distant network regions (acting as shortcuts), and sufficient conditions for robustness when missing links are a uniformly, randomly thinned subset of the full network (preserving network structure). Such failures exist even when the basic reproductive number is consistently estimable. We explore difficulties implementing possible solutions and conduct simulations on synthetic and real networks.
 </details>
-(R&R at Econometrica)
+(Resubmitted to Econometrica)
 [Supplemental Material](/papers/diffusion_supplement.pdf)
 
 
