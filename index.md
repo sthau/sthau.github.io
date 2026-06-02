@@ -40,3 +40,6 @@ Debates over ideological bias in higher education have become highly salient. We
 
 ### Learning-by-Doing and the Life Cycle of Innovation
 with Gideon Moore and Janet Stefanov
+
+### Proximal Production Functions
+with Jiafeng Chen and Sarah Vicol
