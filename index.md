@@ -12,7 +12,7 @@ with Arun G Chandrasekhar, Paul Goldsmith-Pinkham, Tyler McCormick and Jerry Wei
 <summary>Abstract</summary>
 Network diffusion models are used to study disease transmission, information spread, technology adoption, and other socio-economic processes. We show that estimates of these diffusions are highly non-robust to mismeasurement. First, even when the network is measured perfectly, small and local mismeasurement in the initial seed generates a large shift in the locations of the expected diffusion. Second, if instead the initial seed is known, even a vanishingly small share of missed links causes diffusion forecasts to be significant under-estimates. Forecast failure depends critically on the geometry of measurement error: we provide sufficient conditions for catastrophic failure when missing links bridge distant network regions (acting as shortcuts), and sufficient conditions for robustness when missing links are a uniformly, randomly thinned subset of the full network (preserving network structure). Such failures exist even when the basic reproductive number is consistently estimable. We explore difficulties implementing possible solutions and conduct simulations on synthetic and real networks.
 </details>
-(Resubmitted to Econometrica)
+(2nd Round Revise and Resubmit, Econometrica)
 [Supplemental Material](/papers/diffusion_supplement.pdf)
 
 
@@ -36,7 +36,7 @@ with Gideon Moore and Jacob Light
 Debates over ideological bias in higher education have become highly salient. We develop a novel text embedding based method to measure two dimensions of ideological content in college courses: politicization, the extent which the course engages in political content, and slant, the partisan valence of the political content. We compute our measures on course descriptions from a dataset containing course offerings covering the last 25 years from more than 1,000 colleges and universities. We study both aggregate patterns in the data and evaluate contributions of instructor and student preferences to observed content in order to understand who would be impacted by proposed policies. We find a slight increase in the average politicization and a small increase in liberal slant. Both shifts are small relative to persistent cross field differences. Selective schools, on average, have slightly more political and liberal courses than non-selective schools with more pronounced shifts over time. Leveraging instructors moving between institutions, we find that instructors account for roughly 60\% of cross-sectional variance in political course content. By inverting course enrollment shares, we uncover a marked increase in student demand for liberal courses from 2005-2020. This preference has abated substantially in recent years.
 </details>
 
-### Access Journalism: Theory and Evidence from Coverage of Congress
+### Access Journalism: Theory and Evidence from Coverage of Politics
 
 ### Learning-by-Doing and the Life Cycle of Innovation
 with Gideon Moore and Janet Stefanov
