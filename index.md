@@ -6,6 +6,13 @@ I am a 5th year PhD candidate in Economics at Stanford. I am interested in indus
 
 ## Working papers
 
+### [The Political Content of College Courses](https://jacob-light.github.io/college-politics.pdf)
+with Gideon Moore and Jacob Light
+<details>
+<summary>Abstract</summary>
+Debates over ideological bias in higher education have become highly salient. We develop a novel text embedding based method to measure two dimensions of ideological content in college courses: politicization, the extent which the course engages in political content, and slant, the partisan valence of the political content. We compute our measures on course descriptions from a dataset containing course offerings covering the last 25 years from more than 1,000 colleges and universities. We study both aggregate patterns in the data and evaluate contributions of instructor and student preferences to observed content in order to understand who would be impacted by proposed policies. We find a slight increase in the average politicization and a small increase in liberal slant. Both shifts are small relative to persistent cross field differences. Selective schools, on average, have slightly more political and liberal courses than non-selective schools with more pronounced shifts over time. Leveraging instructors moving between institutions, we find that instructors account for roughly 60\% of cross-sectional variance in political course content. By inverting course enrollment shares, we uncover a marked increase in student demand for liberal courses from 2005-2020. This preference has abated substantially in recent years.
+</details>
+
 ### [Non-Robustness of Diffusion Estimates On Networks With Measurement Error](/papers/diffusion_cgpmtw.pdf)
 with Arun G Chandrasekhar, Paul Goldsmith-Pinkham, Tyler McCormick and Jerry Wei
 <details>
@@ -28,14 +35,6 @@ Proceedings of the National Academy of Sciences (May, 2021): vol. 118 no. 19 doi
 [Supplemental Material](/papers/interacting_supplement.pdf), [Code](https://github.com/sthau/NetworkLockdown)
 
 ## Work in progress
-
-### The Political Content of College Courses
-with Gideon Moore and Jacob Light
-<details>
-<summary>Abstract</summary>
-Debates over ideological bias in higher education have become highly salient. We develop a novel text embedding based method to measure two dimensions of ideological content in college courses: politicization, the extent which the course engages in political content, and slant, the partisan valence of the political content. We compute our measures on course descriptions from a dataset containing course offerings covering the last 25 years from more than 1,000 colleges and universities. We study both aggregate patterns in the data and evaluate contributions of instructor and student preferences to observed content in order to understand who would be impacted by proposed policies. We find a slight increase in the average politicization and a small increase in liberal slant. Both shifts are small relative to persistent cross field differences. Selective schools, on average, have slightly more political and liberal courses than non-selective schools with more pronounced shifts over time. Leveraging instructors moving between institutions, we find that instructors account for roughly 60\% of cross-sectional variance in political course content. By inverting course enrollment shares, we uncover a marked increase in student demand for liberal courses from 2005-2020. This preference has abated substantially in recent years.
-</details>
-(Draft coming soon!)
 
 ### Access Journalism: Theory and Evidence from Coverage of Politics
 
